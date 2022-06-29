@@ -1,2 +1,3 @@
 # Solution-of-57-Practice-SQL
-https://www.amazon.com/SQL-Practice-Problems-learn-doing-ebook/dp/B01N41VQFO
+## _Full name of the book: SQL Practice Problems: 57 beginning, intermediate, and advanced challenges for you to solve using a learn-by-doing_
+## Enjoy!!!!!
